@@ -2,15 +2,16 @@
 
 # Carnage
 
-An activity sharing system for people that want to discover the people in their community.
+An activity sharing system for people who want to discover the people in their community.
 
 ## Getting Started
 
 ### Prerequisites
 
 - Java 21
-- Gradle 9.3+
 - PostgreSQL
+
+The project uses the Gradle wrapper (`./gradlew`), which automatically downloads the required Gradle version.
 
 ### Building
 

@@ -40,9 +40,7 @@ reviews:
   path_filters:
     - "!**/build/**"
     - "!**/.gradle/**"
-    - "!**/gradle/wrapper/**"
     - "!**/*.lock"
-    - "!**/*.jar"
 
   # Per-path review instructions
   path_instructions:

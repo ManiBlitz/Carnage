@@ -34,7 +34,7 @@ reviews:
       - "DO NOT MERGE"
       - "DRAFT"
     base_branches:
-      - "main"
+      - "master"
 
   # Exclude generated/build artifacts from review
   path_filters:

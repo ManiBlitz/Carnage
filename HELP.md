@@ -1,6 +1,6 @@
 # Getting Started
 
-### Reference Documentation
+## Reference Documentation
 For further reference, please consider the following sections:
 
 * [Official Gradle documentation](https://docs.gradle.org)
@@ -15,7 +15,7 @@ For further reference, please consider the following sections:
 * [Flyway Migration](https://docs.spring.io/spring-boot/4.0.3/how-to/data-initialization.html#howto.data-initialization.migration-tool.flyway)
 * [OpenTelemetry](https://docs.spring.io/spring-boot/4.0.3/reference/actuator/observability.html#actuator.observability.opentelemetry)
 
-### Guides
+## Guides
 The following guides illustrate how to use some features concretely:
 
 * [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
@@ -27,7 +27,7 @@ The following guides illustrate how to use some features concretely:
 * [Authenticating a User with LDAP](https://spring.io/guides/gs/authenticating-ldap/)
 * [Using Spring Data JDBC](https://github.com/spring-projects/spring-data-examples/tree/main/jdbc/basics)
 
-### Additional Links
+## Additional Links
 These additional references should also help you:
 
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
